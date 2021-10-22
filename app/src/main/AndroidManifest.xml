@@ -10,8 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tarea1Petagram">
         <activity
+            android:name=".TopFive"
+            android:exported="false"
+            android:parentActivityName=".ListaMascotas"
+            />
+        <activity
             android:name=".ListaMascotas"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

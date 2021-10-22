@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/actionbar.xml" value="0.29936594202898553" />
         <entry key="app/src/main/res/layout/activity_lista_mascotas.xml" value="0.2791666666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2869791666666667" />
+        <entry key="app/src/main/res/layout/activity_top_five.xml" value="0.29322916666666665" />
         <entry key="app/src/main/res/layout/cardview_mascota.xml" value="0.43994943109987356" />
       </map>
     </option>

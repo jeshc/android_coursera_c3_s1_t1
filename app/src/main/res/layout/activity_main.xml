@@ -8,4 +8,11 @@
     tools:context=".MainActivity"
     android:onClick="startApp"
 
-    />
+    >
+    <!--
+    <include android:id="@+id/miActionBAr"
+        layout="@layout/actionbar"
+        />
+        -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
